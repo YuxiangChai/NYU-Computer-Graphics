@@ -13,3 +13,8 @@ HW3 grade: 86/100
 - 1.(c) -5: The cost of refitting the bounding volumes is incorrect. 
 - 2.(a) -2:The sum of the number of the boxes should be computed. 
 - 2.(b) -5: The induction is incorrect.
+
+HW4 grade: 100/100
+
+Final grade: 94/100
+- last question calculation wrong
